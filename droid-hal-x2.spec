@@ -12,7 +12,7 @@
 %define droid_target_aarch64 1
 
 %define straggler_files \
-/bugreport\
+/bugreports\
 /d\
 /file_contexts.bin\
 /init.qcom.bt.sh\
